@@ -9,53 +9,53 @@ da:
           has_many: Kunne ikke slette posten fordi afhængige %{record} findes
   date:
     abbr_day_names:
-    - søn
-    - man
-    - tir
-    - ons
-    - tor
-    - fre
-    - lør
+    - Søn
+    - Man
+    - Tir
+    - Ons
+    - Tor
+    - Fre
+    - Lør
     abbr_month_names:
-    - 
-    - jan
-    - feb
-    - mar
-    - apr
-    - maj
-    - jun
-    - jul
-    - aug
-    - sep
-    - okt
-    - nov
-    - dec
+    -
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - Maj
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Okt
+    - Nov
+    - Dec
     day_names:
-    - søndag
-    - mandag
-    - tirsdag
-    - onsdag
-    - torsdag
-    - fredag
-    - lørdag
+    - Søndag
+    - Mandag
+    - Tirsdag
+    - Onsdag
+    - Torsdag
+    - Fredag
+    - Lørdag
     formats:
       default: "%d.%m.%Y"
       long: "%e. %B %Y"
       short: "%e. %b %Y"
     month_names:
-    - 
-    - januar
-    - februar
-    - marts
-    - april
-    - maj
-    - juni
-    - juli
-    - august
-    - september
-    - oktober
-    - november
-    - december
+    -
+    - Januar
+    - Februar
+    - Marts
+    - April
+    - Maj
+    - Juni
+    - Juli
+    - August
+    - September
+    - Oktober
+    - November
+    - December
     order:
     - :day
     - :month
